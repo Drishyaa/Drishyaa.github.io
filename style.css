@@ -1,0 +1,258 @@
+@charset "utf-8";
+/* CSS Document */
+.bg1
+{
+	background:url(images/about-skills-bg.jpg);
+	height:auto;
+	background-size:cover;
+}
+.bg1inner
+{
+	background: rgba(0,0,0,0.5);
+	min-height:700px;
+	
+}
+
+.navbar-default
+{
+	border:none;
+	border-radius:0px;
+	background:#101413;
+	color:#0CF;
+}
+.navbar-right li a
+{
+	font-family: 'Raleway', sans-serif;
+	font-size: 12px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	text-decoration: none;
+
+}
+.txt h1
+{
+	font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+	font-size:90px;
+	text-align:center;
+	padding-top:10px;
+	color:#FFF;
+	text-transform: uppercase;
+	
+	letter-spacing: -0.07em;
+	
+}
+.txt h2
+{
+	font-family: 'Dosis', sans-serif;
+	font-size:20px;
+	color:#FFF;
+	text-align:center;
+	padding-top:270px;
+	letter-spacing: 0.5em;
+}
+.button
+{
+	margin-left: 600px;
+	padding-top:60px;
+}
+.btn-default
+{
+	color:  #FFF;
+	background:#F00;
+	font-size:14px;
+	border-radius:0px;
+	border:none;
+	letter-spacing:0.1cm;
+	font-family:'Raleway', sans-serif;	
+}
+
+.bg2
+{
+	padding-top:200px;
+	text-align:center;
+}
+.bg2 h1
+{
+	font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: -0.04em;
+    color: #000;
+	
+}
+.bg2 h4
+{
+	font-style:italic;
+	font-family:'Oswald', sans-serif;
+	font-size:15px;
+	padding-bottom:70px;
+
+}
+.bg2 p
+{
+	font-family: 'Dosis', sans-serif;
+	font-size:18px;
+     color: #666;
+	 font-style:normal;
+	
+	
+}
+.bg3
+{
+	padding-top:200px;
+	font-family:'Oswald', sans-serif;
+	text-align:centre;
+	color: #000;
+	
+	 
+}
+.bg3 h1
+{
+	font-size:200px;
+	text-align:center;
+	margin:0px;
+}
+
+.bg3 h3
+{
+	font-size:14px;
+	text-align:center;
+	letter-spacing: 0.5em;
+	
+}
+.bg4 
+{
+	font-family:'Oswald', sans-serif;
+	    padding-top: 200px;
+    text-align: center;
+   
+	color:#000;
+}
+
+.bg4 h1
+{
+	 font-size: 50px; 
+	 font-weight:bold;
+	
+}
+.bg4 p
+{
+	font-style:italic;
+	font-size:15px;
+	
+	
+}
+.col-md-4
+{
+	padding-top:50px;
+	padding-left:40px;
+	padding-right:40px;
+	padding-bottom:200px;
+}
+.col-md-4 mid
+{
+	text-align:center;
+}
+.col-md-4 right
+{
+	text-align:center;
+}
+	
+
+.col-md-4 left
+{
+	text-align:center;
+}
+.col-md-4 h1
+{
+	font-size:16px;
+}
+.col-md-4 p
+{
+	color: #666;
+	font-size:16px;
+	font-style:normal;
+}
+.col-md-4 span
+{
+	font-size:100px;
+	text-align:left;
+	color: #666;
+	font-weight:bold;
+	
+	
+}
+.bg5
+{
+	background: url(images/works-4.jpg);
+	
+	background-size:cover;
+	
+}
+.bg5inner
+{
+	background: rgba(0,0,0,0.7);
+	min-height:600px;
+}
+.bg5text
+{
+	text-align:center;
+	padding-top:150px;
+	font-family: 'Oswald', sans-serif;
+	font-size:32px;
+	font-weight:bold;
+	color:#FFF;
+	 letter-spacing: -0.04em;
+}
+
+.bg5text span
+{
+	color:#F00;
+}
+.bg5text p
+{
+	font-size:16px;
+	font-style:italic;
+	font-weight: lighter;
+	
+}
+
+
+.last
+{
+	padding-top:200px;
+}
+.last img
+{
+	margin-left:450px;
+	padding-bottom:50px;
+}
+
+
+.last form
+{
+    width: 300px;
+    height: 160px;
+    margin: 69px auto 81px auto;
+    background: none;
+    text-align: center;
+}
+.c-btn
+{
+	background: #FFF;
+	color:#000;
+	font-family:'Raleway', sans-serif;
+	border:#000000  thin 1px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:5px;
+	padding-top:5px;
+	
+}
+.bttn
+{padding:10px;}
+
+
+	
